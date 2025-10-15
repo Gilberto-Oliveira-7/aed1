@@ -1,0 +1,34 @@
+
+------ RELATÓRIO DE VENDAS AGOSTO 2025 ------
+
+Data       | Dia da Semana    | Valor das Vendas (R$)
+--------------------------------------------------
+04/08/2025 | Segunda-feira    | R$ 2,350.00
+05/08/2025 | Terça-feira      | R$ 1,980.00
+06/08/2025 | Quarta-feira     | R$ 2,540.00
+07/08/2025 | Quinta-feira     | R$ 2,100.00
+08/08/2025 | Sexta-feira      | R$ 3,050.00
+11/08/2025 | Segunda-feira    | R$ 2,650.00
+12/08/2025 | Terça-feira      | R$ 2,180.00
+13/08/2025 | Quarta-feira     | R$ 2,760.00
+14/08/2025 | Quinta-feira     | R$ 2,920.00
+15/08/2025 | Sexta-feira      | R$ 3,100.00
+18/08/2025 | Segunda-feira    | R$ 2,300.00
+19/08/2025 | Terça-feira      | R$ 2,430.00
+20/08/2025 | Quarta-feira     | R$ 2,210.00
+21/08/2025 | Quinta-feira     | R$ 2,790.00
+22/08/2025 | Sexta-feira      | R$ 2,970.00
+25/08/2025 | Segunda-feira    | R$ 3,100.00
+26/08/2025 | Terça-feira      | R$ 2,880.00
+27/08/2025 | Quarta-feira     | R$ 2,600.00
+28/08/2025 | Quinta-feira     | R$ 2,500.00
+29/08/2025 | Sexta-feira      | R$ 3,400.00
+
+--------------------------------------------------
+
+Resumo:
+Total de vendas no mês: R$ 52,810.00
+Média diária de vendas: R$ 2,640.50
+Maior venda: R$ 3,400.00 em 29/08/2025 (Sexta-feira)
+Menor venda: R$ 1,980.00 em 05/08/2025 (Terça-feira)
+A maior venda foi 28.76% acima da média diária.
